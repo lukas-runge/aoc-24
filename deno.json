@@ -1,0 +1,10 @@
+{
+	"tasks": {
+		"day1": "deno run --env-file=.env --allow-env --allow-net=adventofcode.com --watch day1/main.ts"
+	},
+	"fmt": {
+		"useTabs": true,
+		"singleQuote": false,
+		"lineWidth": 100
+	}
+}
