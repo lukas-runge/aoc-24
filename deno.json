@@ -2,7 +2,8 @@
 	"tasks": {
 		"day1": "deno run --env-file=.env --allow-env --allow-net=adventofcode.com --watch day1/main.ts",
 		"day2": "deno run --env-file=.env --allow-env --allow-net=adventofcode.com --watch day2/main.ts",
-		"day3": "deno run --env-file=.env --allow-env --allow-net=adventofcode.com --watch day3/main.ts"
+		"day3": "deno run --env-file=.env --allow-env --allow-net=adventofcode.com --watch day3/main.ts",
+		"day4": "deno run --env-file=.env --allow-env --allow-net=adventofcode.com --watch day4/main.ts"
 	},
 	"fmt": {
 		"useTabs": true,
